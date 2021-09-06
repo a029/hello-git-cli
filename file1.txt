@@ -2,4 +2,8 @@ hello git
 secoond
 third - my branch
 fourth - my branch
+<<<<<<< HEAD
 some hotfix
+=======
+기능 1 추가
+>>>>>>> 8af8817 (you can type korean)
